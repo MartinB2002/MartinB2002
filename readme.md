@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170" src="https://github.com/MartinB2002/perfil/assets/115353288/02acdddd-3581-4305-9561-3dc3a06fc68b"  />
+  <img height="190px" width="100%" src="https://github.com/MartinB2002/perfil/assets/115353288/02acdddd-3581-4305-9561-3dc3a06fc68b">
 </div>
 
 ###
@@ -48,7 +48,7 @@
   <a href="https://www.linkedin.com/in/martin-boggio-351540250/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="boggio.martin.alejandro@gmail.com" target="_blank">
+  <a href="mailto:boggio.martin.alejandro@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
